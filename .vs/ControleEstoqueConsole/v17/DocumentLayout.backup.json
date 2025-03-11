@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{678F59EE-8210-4C8D-B84C-5D755F81792F}|ControleEstoqueConsole\\ControleEstoqueConsole.csproj|solutionrelative:controleestoqueconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{678F59EE-8210-4C8D-B84C-5D755F81792F}|ControleEstoqueConsole\\ControleEstoqueConsole.csproj|d:\\treinoparaentrevista\\controleestoqueconsole\\controleestoqueconsole\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{678F59EE-8210-4C8D-B84C-5D755F81792F}|ControleEstoqueConsole\\ControleEstoqueConsole.csproj|solutionrelative:controleestoqueconsole\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{678F59EE-8210-4C8D-B84C-5D755F81792F}|ControleEstoqueConsole\\ControleEstoqueConsole.csproj|d:\\treinoparaentrevista\\controleestoqueconsole\\controleestoqueconsole\\entities\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{678F59EE-8210-4C8D-B84C-5D755F81792F}|ControleEstoqueConsole\\ControleEstoqueConsole.csproj|solutionrelative:controleestoqueconsole\\entities\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678F59EE-8210-4C8D-B84C-5D755F81792F}|ControleEstoqueConsole\\ControleEstoqueConsole.csproj|d:\\treinoparaentrevista\\controleestoqueconsole\\controleestoqueconsole\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678F59EE-8210-4C8D-B84C-5D755F81792F}|ControleEstoqueConsole\\ControleEstoqueConsole.csproj|solutionrelative:controleestoqueconsole\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{678F59EE-8210-4C8D-B84C-5D755F81792F}|ControleEstoqueConsole\\ControleEstoqueConsole.csproj|d:\\treinoparaentrevista\\controleestoqueconsole\\controleestoqueconsole\\entities\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,14 +93,14 @@
               "RelativeDocumentMoniker": "ControleEstoqueConsole\\Program.cs",
               "ToolTip": "D:\\TreinoParaEntrevista\\ControleEstoqueConsole\\ControleEstoqueConsole\\Program.cs",
               "RelativeToolTip": "ControleEstoqueConsole\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T19:26:38.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Produto.cs",
               "DocumentMoniker": "D:\\TreinoParaEntrevista\\ControleEstoqueConsole\\ControleEstoqueConsole\\Entities\\Produto.cs",
               "RelativeDocumentMoniker": "ControleEstoqueConsole\\Entities\\Produto.cs",
@@ -113,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Estoque.cs",
               "DocumentMoniker": "D:\\TreinoParaEntrevista\\ControleEstoqueConsole\\ControleEstoqueConsole\\Entities\\Estoque.cs",
               "RelativeDocumentMoniker": "ControleEstoqueConsole\\Entities\\Estoque.cs",

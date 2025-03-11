@@ -1,4 +1,4 @@
-﻿namespace ControleEstoqueConsole.Entities;
+﻿namespace ControleEstoqueConsole.Domain.Entities;
 public class Estoque
 {
     public List<Produto> Produtos { get; set; } = new List<Produto>();

@@ -1,4 +1,5 @@
-﻿using ControleEstoqueConsole.Entities;
+﻿using ControleEstoqueConsole.Domain.Entities;
+using ControleEstoqueConsole.Entities;
 
 namespace ControleEstoqueConsole
 {
