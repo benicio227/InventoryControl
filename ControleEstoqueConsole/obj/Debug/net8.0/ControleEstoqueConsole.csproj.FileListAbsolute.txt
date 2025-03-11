@@ -1,0 +1,14 @@
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\bin\Debug\net8.0\ControleEstoqueConsole.exe
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\bin\Debug\net8.0\ControleEstoqueConsole.deps.json
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\bin\Debug\net8.0\ControleEstoqueConsole.runtimeconfig.json
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\bin\Debug\net8.0\ControleEstoqueConsole.dll
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\bin\Debug\net8.0\ControleEstoqueConsole.pdb
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ControleEstoqueConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ControleEstoqueConsole.AssemblyInfoInputs.cache
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ControleEstoqueConsole.AssemblyInfo.cs
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ControleEstoqueConsole.csproj.CoreCompileInputs.cache
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ControleEstoqueConsole.dll
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\refint\ControleEstoqueConsole.dll
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ControleEstoqueConsole.pdb
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ControleEstoqueConsole.genruntimeconfig.cache
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ref\ControleEstoqueConsole.dll
