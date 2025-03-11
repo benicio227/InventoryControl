@@ -3,7 +3,7 @@
 namespace ControleEstoqueConsole.Repositories;
 public interface IProdutoRepository
 {
-    Produto ObterPorId(int id);
+    Produto? ObterPorId(int id);
     List<Produto> ObterTodos();
     void Adicionar(Produto produto);
     void Atualizar(Produto produto);
