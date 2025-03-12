@@ -12,3 +12,4 @@ D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\
 D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ControleEstoqueConsole.pdb
 D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ControleEstoqueConsole.genruntimeconfig.cache
 D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ref\ControleEstoqueConsole.dll
+D:\TreinoParaEntrevista\ControleEstoqueConsole\ControleEstoqueConsole\obj\Debug\net8.0\ControleEstoqueConsole.sourcelink.json
