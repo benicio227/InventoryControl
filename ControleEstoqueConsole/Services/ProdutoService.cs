@@ -5,10 +5,11 @@ namespace ControleEstoqueConsole.Services;
 public class ProdutoService
 {
     private readonly IProdutoRepository _produtoRepository;
-
-    public ProdutoService(IProdutoRepository produtoRepository)
+    private readonly IVendaRepository _vendaRepository;
+    public ProdutoService(IProdutoRepository produtoRepository, IVendaRepository vendaRepository)
     {
         _produtoRepository = produtoRepository;
+        _vendaRepository = vendaRepository;
     }
 
     public void CadastrarProduto(string nome, decimal preco, int estoqueInicial)
@@ -56,6 +57,17 @@ public class ProdutoService
         {
             _produtoRepository.Atualizar(produto);
             Console.WriteLine($"Venda de {quantidade} unidade(s) do produto {produto.Nome} realizada com sucesso!");
+
+            var venda = new Venda
+            {
+                Nome = produto.Nome,
+                Quantidade = quantidade,
+                Data = DateTime.Now
+            };
+
+            _vendaRepository.RegistrarVenda(venda);
+
+            Console.WriteLine($"Venda de {quantidade} unidade(s) do produto {produto.Nome} registrada com sucesso!");
         }
     }
 
@@ -78,6 +90,24 @@ public class ProdutoService
     public void RemoverProduto(int produtoId)
     {
         _produtoRepository.Remover(produtoId);
+    }
+
+    public void ListarHistorico()
+    {
+        var vendas = _vendaRepository.ObterHistorico();
+
+        if (!vendas.Any())
+        {
+            Console.WriteLine("Nenhuma venda registrada");
+            return;
+        }
+
+        Console.WriteLine("=== Histórico de Vendas ===");
+        foreach(var venda in vendas)
+        {
+            Console.WriteLine($"ID: {venda.Id} | Produto: {venda.Nome} | Quantidade: {venda.Quantidade} | " +
+                          $"Data: {venda.Data:dd/MM/yyyy HH:mm}");
+        }
     }
 
 }
